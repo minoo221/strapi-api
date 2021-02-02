@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_tests",
+  "info": {
+    "name": "test",
+    "icon": "battery-three-quarters"
+  },
+  "options": {},
+  "attributes": {
+    "svsdfv": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    }
+  }
+}
